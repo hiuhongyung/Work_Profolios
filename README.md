@@ -14,7 +14,7 @@ Then we set up the wallet and cards for storing the favourite gyms and payment
 Finally we have the user account system 
 ![User Account](https://github.com/hiuhongyung/Work_Profolios/blob/main/Gymmate/user_account.gif)
 
-We list out the gyms on the map and allow users to search and know more about the details of different gyms
+
 ## Pebble
 We aspire to build and develop a one-stop job search platform for university students. In this web application, users can enjoy the humanizing job search experience. 
 MERN stack has been adopted in the production
