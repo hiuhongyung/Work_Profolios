@@ -1,4 +1,6 @@
 # Work_Profolios
+Here's show the introduction of my recent works
+
 ## Gymmate
 We aspire to build and develop a gym-matching platform for gym lovers to find gyms in Hong Kong and also provide a channel for the gym to rent their places for freelance personal trainner.
 In the development, we use React Native to build the mobile application
